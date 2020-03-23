@@ -1,6 +1,9 @@
 """
 Lecture 3/23/2020
 
+The lecture can be found here:
+https://www.youtube.com/watch?v=iU654gMOui4
+
 """
 
 # constants go right under the program's documentation
