@@ -1,0 +1,1 @@
+{"shields": {"Kite Shield": {"type": "kite", "size": 5, "weight": 2, "strength": 14}, "Tower Shield": {"type": "tower", "size": 14, "weight": 5, "strength": 22}}, "weapons": {"Rapier": {"type": "sword", "reach": 3, "weight": 2, "strength": 1}, "Broadsword": {"type": "sword", "reach": 3, "weight": 4, "strength": 5}}}
